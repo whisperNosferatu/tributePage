@@ -108,6 +108,7 @@ main {
 
 .by a {
     color: green;
+    font-weight: bold;
     text-decoration: none;
 }
 
