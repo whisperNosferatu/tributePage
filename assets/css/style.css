@@ -106,7 +106,7 @@ main {
     text-align: center;
 }
 
-.by span, a {
+.by a {
     color: green;
     text-decoration: none;
 }
